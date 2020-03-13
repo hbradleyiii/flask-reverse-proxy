@@ -1,0 +1,13 @@
+*$py.class
+*.db
+*.py[cod]
+.env
+/.cache/
+/__pycache__/
+/htdocs/css/
+/htdocs/icons/
+/htdocs/js/
+/logs/
+/node_modules/
+/ssl/
+/venv/
